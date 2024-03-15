@@ -1,2 +1,5 @@
 # Ignora i file .DS_Store generati da macOS
 .DS_Store
+
+# Ignora la cartella __pycache__
+__pycache__/
